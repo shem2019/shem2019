@@ -16,9 +16,9 @@
 
 ## Stack
 
-**Mobile** Kotlin, Jetpack Compose, Android Enterprise, ML Kit, Bluetooth LE
-**AI** Claude API, tool calling, MCP servers, agent workflows, fine-tuning, llama.cpp
-**Backend** Python, PHP, Node.js, MySQL and MariaDB, REST APIs, GitHub Actions, Linux servers
+- **Mobile** · Kotlin, Jetpack Compose, Android Enterprise, ML Kit, Bluetooth LE
+- **AI** · Claude API, tool calling, MCP servers, agent workflows, fine-tuning, llama.cpp
+- **Backend** · Python, PHP, Node.js, MySQL and MariaDB, REST APIs, GitHub Actions, Linux servers
 
 ## Education
 
